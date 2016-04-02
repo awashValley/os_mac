@@ -1,0 +1,83 @@
+
+
+## --- http://krypted.com
+
+## environment variables/paths
+        * open -t ~/.profile
+
+
+
+##--- http://www.quora.com/Why-do-most-professional-programmers-prefer-Macs
+
+##--- How to type tilde?
+* Alt + N
+
+##--- How to cd a directory with a name containing spaces?
+* cd Library/Application\ Support/
+
+##— Where are QuickTime Player’s tmp files stored?
+
+    Library/Containers/com.apple.QuickTimePlayerX/Data/Library/Autosave Information/Unsaved QuickTime Player Document.qtpxcomposition/Screen\ Audio Recording.m4a
+
+##--- copy/move a file from a directory to another
+* cp ~/Downloads/R.plist ~/Library/Application\ Support/TextWrangler/Language\ Modules/
+
+## --- Snipping Tool
+* cmd + shift + 4
+
+## --- Parallels: remove virtual machine
+* cd ~/Documents/Parallels/
+* rm -rf Ubuntu\ Linux\ 14.04\ Desktop.pvm/
+
+## --- to check java versions in Mac
+* cd /System/Library/Frameworks/JavaVM.framework/Versions/
+* ls
+* To change to any versions:
+> sudo ln -fhsv 1.6 CurrentJDK
+> java -versions
+## --- look into environment variables in the path
+> echo $PATH
+> set a new path: http://coolestguidesontheplanet.com/add-shell-path-osx/
+
+## --- change directory to flash drive
+> cd /Volumes/NIGATWA
+
+## --- open your file (.txt) from the Terminal
+> open myfile.txt
+
+## --- How to stop Apple spy on you?
+> http://www.wired.co.uk/news/archive/2014-10/21/apple-spies-on-yosemite-searches
+
+## --- terminate/break the terminal
+> ctr + c
+
+## --- go to Home
+> F11
+
+## --- CUT + PASTE in Mac
+> First, COMMAND + C (this copies the file)
+> Then, go to the final destination and type 'COMMAND + OPT (alt) + V'
+
+## --- Ctrl + Alt + Del (in windows)
+> command + opt (alt) + escape (in Mac)
+
+## How to backup your mac using Time Machine?
+> Open Time Machin from Mac System Preference (top left)
+> Then, put it ON
+> Then, go to the external drive. Right click & select back up now.
+
+
+## How to open Sublime Text from Mac Command Line:
+        * sudo ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport
+       /bin/subl /usr/bin/subl
+
+## To navigate in Finder: 
+        > shift + cmd + g
+
+## clear screen
+        > cmd + k
+
+
+
+
+
