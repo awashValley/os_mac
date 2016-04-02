@@ -1,4 +1,5 @@
 ## Merge multiple png files using the terminal
    > brew install ImageMagick
-   > onvert +append a.png b.png merge.png  /* horizontal merge */
-   > onvert -append a.png b.png merge.png  /* vertical merge */
+   > convert +append a.png b.png merge.png  /* horizontal merge */
+   > convert -append a.png b.png merge.png  /* vertical merge */
+   > convert -append a*.png      merge.png  /* in case there are multiple files */
