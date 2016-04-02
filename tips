@@ -1,6 +1,6 @@
 
-## Go to the begining of the line
-   ctrl + A
+## Go to the begining/end of the line
+   ctrl + A / ctrl + E
    
 ## clear terminal
    $ clear
