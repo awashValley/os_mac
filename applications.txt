@@ -1,0 +1,2 @@
+## How to remove an icon from launchpad that does not appear in the Finder?
+http://apple.stackexchange.com/questions/144756/how-to-remove-an-icon-from-launchpad-that-does-not-appear-in-the-finder
